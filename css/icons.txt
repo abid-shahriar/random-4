@@ -1,0 +1,10 @@
+<i class="fas fa-leaf"></i> -- leaf
+<i class="fas fa-edit"></i>  -- note
+<i class="fas fa-search"></i> -- src 
+<i class="fas fa-hourglass-half"></i> --sand watch
+<i class="fas fa-laptop-code"></i> -- laptop
+<i class="fas fa-tools"></i> --tool
+<i class="fas fa-lightbulb"></i> --bulb
+<i class="fas fa-paper-plane"></i>  -- PP
+<i class="far fa-address-card"></i> -- uid
+<i class="fas fa-gem"></i> 
